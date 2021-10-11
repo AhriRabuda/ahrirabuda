@@ -1,16 +1,13 @@
-### Hi there 👋
+### oi gente eu so a ahri 👋🦊
 
-<!--
-**AhriRabuda/ahrirabuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+aqui ta tudo que vc precisa sabe sobre mim (agora pelo menos)):
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 ultimamente estou focada em: roubar velhos
+- 🌱 to tentando aprender: a ser mais humilde e menos feia
+- 👯 quero colaborar com: homens gostosos
+- 🤔 procuro ajuda para: ficar milionaria
+- 💬 me pergunte sobre: nada
+- 📫 como chegar até mim: não da sou mt linda
+- 😄 pronomes: ca/dela
+- ⚡ fato curioso: tenho dislexia e ansiedade social
 -->
