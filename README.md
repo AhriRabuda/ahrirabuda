@@ -10,4 +10,3 @@ aqui ta tudo que vc precisa sabe sobre mim (agora pelo menos)):
 - 📫 como chegar até mim: não da sou mt linda
 - 😄 pronomes: ca/dela
 - ⚡ fato curioso: tenho dislexia e ansiedade social
--->
