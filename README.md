@@ -35,4 +35,7 @@ aqui ta tudo que vc precisa sabe sobre mim (agora pelo menos)):
   <a href="https://www.youtube.com/channel/Ahryuba" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/ahri_rabuda" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/8cFDNFu" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
+
+![Snake animation](https://github.com/ahrirabuda/ahrirabuda/blob/output/github-contribution-grid-snake.svg)
+
 </div>
